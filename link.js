@@ -1,1 +1,3 @@
-const offerLink = "vnd.youtube://youtube.com/redirect?event=comments&redir_token=QUFFLUhqbWZkSEZVbGJBU0tKN3N0RkczWWZHaklkRzkwUXxBQ3Jtc0tsLUtzLWQwOVVkMDlBZjJGNERYUlZEd3BEd3NFSFlJQ19jaXFfRlNQbVZYYTJ5WUJxRzhJLTZHa3JsdTluN0ZiV1EyMDhYTzJTTEFoRkZNay1tYmgxTUY4Qzc1c3NoOWYzam1JTmVlTGx0ekl3TUVpSQ&q=https%3A%2F%2Fwabqnk.palatlaldate.com%2F%3Futm_source%3Dda57dc555e50572d%26s1%3D191792%26s2%3D1849441%26j1%3D1&html_redirect=1 ";
+const offerLink = "vnd.youtube://youtube.com/redirect?event=comments&redir_token=QUFFLUhqbVdaY2VhQXdVMnVMWG5SQkktYUNCdXVucnB4UXxBQ3Jtc0tuTjR6QU11em1uX3dOdXhVS0dkLUZOUkFXcFdpZUxRcW1BUFFWOFZ5dmhnVkM0clV3N2ZNVlAxNVkxS1BWbi1HRXcwQWhHQkJJRGsyc24zN1V5Si1vSjE3aFJtU3NESUE5LVQ5WC1WT2gtUnlDTTR3UQ&q=https%3A%2F%2Fsecuredsmcd.com%2Fsmartlink%2F%3Fa%3D212131%26sm%3D37514%26co%3D268403%26mt%3D28%26s1%3Dtoptappa1111&html_redirect=1 ";
+
+
